@@ -1,0 +1,20 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.ehcache.org/v3"
+        xsi:schemaLocation="
+            http://www.ehcache.org/v3
+            http://www.ehcache.org/schema/ehcache-core.xsd">
+
+<!--    <cache alias="Default">-->
+<!--        <heap unit="entries">1000</heap>-->
+<!--        <expiry>-->
+<!--            <ttl unit="seconds">600</ttl>-->
+<!--        </expiry>-->
+<!--    </cache>-->
+
+<!--    <cache alias="Users">-->
+<!--        <heap unit="entries">1000</heap>-->
+<!--        <expiry>-->
+<!--            <ttl unit="seconds">600</ttl>-->
+<!--        </expiry>-->
+<!--    </cache>-->
+</config>
